@@ -38,8 +38,13 @@ Check out the live version here: [My Cloud Website](https://rozinarajbhara04.git
    git clone https://github.com/rozinarajbhara04/My-cloud-project-Rozina.git
 2.Open index.html in your browser
 
+---
+
 ## 📷 Screenshots (Optional)
-![Website Screenshot])
+![Homepage](C:\Users\admin\Mycloudprojects\screenshot1.png)
+
+---
+
 ## 📜 License
 
 This project is open-source and free to use.
