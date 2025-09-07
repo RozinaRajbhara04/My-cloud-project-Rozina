@@ -39,8 +39,7 @@ Check out the live version here: [My Cloud Website](https://rozinarajbhara04.git
 2.Open index.html in your browser
 
 ## 📷 Screenshots (Optional)
-![Website Screenshot](C:\Users\admin\Mycloudprojects\screenshot.png)
-(C:\Users\admin\Mycloudprojects\screenshot.png)
+![Website Screenshot])
 ## 📜 License
 
 This project is open-source and free to use.
