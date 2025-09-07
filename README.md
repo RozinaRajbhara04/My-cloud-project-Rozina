@@ -40,9 +40,7 @@ Check out the live version here: [My Cloud Website](https://rozinarajbhara04.git
 
 ## 📷 Screenshots (Optional)
 ![Website Screenshot](C:\Users\admin\Mycloudprojects\screenshot.png)
-<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/632b40f1-9911-43b9-8932-c2bff258db7b" />
-<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/12388e2a-7a1b-4a70-a1b7-8ba30026c499" />
-
+(C:\Users\admin\Mycloudprojects\screenshot.png)
 ## 📜 License
 
 This project is open-source and free to use.
