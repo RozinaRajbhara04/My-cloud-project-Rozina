@@ -41,9 +41,7 @@ Check out the live version here: [My Cloud Website](https://rozinarajbhara04.git
 ---
 
 ## 📷 Screenshots (Optional)
-![Homepage](https://github.com/RozinaRajbhara04/My-cloud-project-Rozina/blob/main/Screenshot%20(1).png))
-
----
+![Homepage]([https://github.com/RozinaRajbhara04/My-cloud-project-Rozina/blob/main/Screenshot%20(1).png)
 
 ## 📜 License
 
